@@ -1,10 +1,10 @@
-#!/usr/bin/env python
-
-# -*- coding: utf-8 -*-
+# !/usr/bin/env python
+# -*-coding:utf-8 -*-
 
 """
-@author: jiajia
-@file: __init__.py.py
-@time: 2020/8/18 9:34
+# File       : __init__.py.py
+# Time       ：2023/7/28 17:02
+# Author     ：yujia
+# version    ：python 3.6
+# Description：
 """
-print("加载模型中......")
